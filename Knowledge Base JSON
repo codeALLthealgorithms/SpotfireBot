@@ -33,27 +33,5 @@
          },
          "qid": "SpotfireBot.003"
       },
-      {
-         "qid": "SpotfireBot.004",
-         "q": [
-            "How to insert a new page?"
-         ],
-         "a": "Navigate to the tool bar. Click \"\" then \"New Page\". Pages can be renamed by right-clicking on the page title and selecting \"Rename Page\".",
-         "r": {
-            "title": "",
-            "imageUrl": ""
-         }
-      },
-      {
-         "qid": "SpotfireBot.005",
-         "q": [
-            "How do you add data?"
-         ],
-         "a": "Adding data to Spotfire. Use the \"Add Data Tables\" icon in the menu bar or navigate to File, Add Data Tables. The \"Add Data Tables\" dialog will appear. Use the \"Add\" selector to view options for importing data, and \"File\" to browse for a local document. Add files from the clipboardAfter selecting the new data file for import, an \"Import Settings\" dialog will appear. After checking the Import Settings dialog, you have the opportunity to name the underlying data table",
-         "r": {
-            "title": "",
-            "imageUrl": ""
-         }
-      },
    ]
 }
