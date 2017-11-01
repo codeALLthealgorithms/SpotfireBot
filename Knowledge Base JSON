@@ -1,0 +1,59 @@
+{
+   "spotfirebot": [
+      {
+         "qid": "SpotfireBot.001",
+         "q": [
+            "Help"
+         ],
+         "a": "Here's the kind of support I'm currently offering. You can ask my questions like, What is Spotfire, How to log on Spotfire, How do you open files/add data, How to insert a new page, How do you add data, How to edit Table Visualization properties, How to export visualizations as an image/PowerPoint/general, How to export table visualization, How to export data, How to insert/add visualizations, How to add lines and curves, How to use filters, How to use markers, How to add a details visualization, and if you can't find what you're looking for, please try checking out the link https://cbshelp.gsk.com/Pages/Spotfire-for-Discovery-Help-Central.aspx) ",
+         "r": {
+            "title": "",
+            "imageUrl": ""
+         }
+      },
+      {
+         "qid": "SpotfireBot.002",
+         "q": [
+            "Who can I contact for immediate help?"
+         ],
+         "a": "Our local Spotfire expert is Sunny Hung! ... Try not to contact him too often.",
+         "r": {
+            "title": "",
+            "imageUrl": ""
+         }
+      },
+      {
+         "q": [
+            "What is Spotfire?"
+         ],
+         "a": "Spotfire is a visual data analysis tool",
+         "r": {
+            "title": "",
+            "imageUrl": ""
+         },
+         "qid": "SpotfireBot.003"
+      },
+      {
+         "qid": "SpotfireBot.004",
+         "q": [
+            "How to insert a new page?"
+         ],
+         "a": "Navigate to the tool bar. Click \"\" then \"New Page\". Pages can be renamed by right-clicking on the page title and selecting \"Rename Page\".",
+         "r": {
+            "title": "",
+            "imageUrl": ""
+         }
+      },
+      {
+         "qid": "SpotfireBot.005",
+         "q": [
+            "How do you add data?"
+         ],
+         "a": "Adding data to Spotfire. Use the \"Add Data Tables\" icon in the menu bar or navigate to File, Add Data Tables. The \"Add Data Tables\" dialog will appear. Use the \"Add\" selector to view options for importing data, and \"File\" to browse for a local document. Add files from the clipboardAfter selecting the new data file for import, an \"Import Settings\" dialog will appear. After checking the Import Settings dialog, you have the opportunity to name the underlying data table",
+         "r": {
+            "title": "",
+            "imageUrl": ""
+         }
+      },
+   ]
+}
