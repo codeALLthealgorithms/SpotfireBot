@@ -3,6 +3,17 @@
       {
          "qid": "SpotfireBot.001",
          "q": [
+            "What is Spotfire"
+         ],
+         "a": "Spotfire is a data visualization tool.",
+         "r": {
+            "title": "",
+            "imageUrl": ""
+         }
+      },
+      {
+         "qid": "SpotfireBot.002",
+         "q": [
             "Help"
          ],
          "a": "Here's the kind of support I'm currently offering. You can ask my questions like, What is Spotfire, How to log on Spotfire, How do you open files/add data, How to insert a new page, How do you add data, How to edit Table Visualization properties, How to export visualizations as an image/PowerPoint/general, How to export table visualization, How to export data, How to insert/add visualizations, How to add lines and curves, How to use filters, How to use markers, How to add a details visualization, and if you can't find what you're looking for, please try checking out the link https://cbshelp.gsk.com/Pages/Spotfire-for-Discovery-Help-Central.aspx) ",
@@ -12,7 +23,7 @@
          }
       },
       {
-         "qid": "SpotfireBot.002",
+         "qid": "SpotfireBot.003",
          "q": [
             "Who can I contact for immediate help?"
          ],
@@ -21,17 +32,6 @@
             "title": "",
             "imageUrl": ""
          }
-      },
-      {
-         "q": [
-            "What is Spotfire?"
-         ],
-         "a": "Spotfire is a visual data analysis tool",
-         "r": {
-            "title": "",
-            "imageUrl": ""
-         },
-         "qid": "SpotfireBot.003"
       },
    ]
 }
